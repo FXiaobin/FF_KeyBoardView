@@ -1,0 +1,20 @@
+PODS:
+  - Masonry (1.1.0)
+  - SZTextView (1.3.0)
+
+DEPENDENCIES:
+  - Masonry
+  - SZTextView
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Masonry
+    - SZTextView
+
+SPEC CHECKSUMS:
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  SZTextView: 094dc6acc9beec537685c545d6e3e0d4975174e1
+
+PODFILE CHECKSUM: 1e4b3b69f92d93e240bf459eb246dc99924f78f5
+
+COCOAPODS: 1.5.2
